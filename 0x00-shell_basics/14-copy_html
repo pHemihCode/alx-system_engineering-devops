@@ -1,2 +1,2 @@
-#!/bin/bash
-rsync *.html -u . ../
+#!bin/bash
+cp -un *.html ../
