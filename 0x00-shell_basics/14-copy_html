@@ -1,2 +1,2 @@
 #!/bin/bash
-cp *.html /root/tmp /root
+rsync *.html -u . ../
